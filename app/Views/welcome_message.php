@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Welcome to CodeIgniter 4!</title>
-    <meta name="description" content="The small framework with powerful features">
+    <title>Welcome to my website using CodeIgniter 4!</title>
+    <meta name="description" content="Made by Muhd Shamizan">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/png" href="/favicon.ico">
 
@@ -237,17 +237,17 @@
 
 <section>
 
-    <h1>About this page</h1>
+    <h1>Who am I?</h1>
 
-    <p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
+    <p>Name: Muhammad Shamizan Bin Haji Sahrini.</p>
 
-    <p>If you would like to edit this page you will find it located at:</p>
+    <p></p>
 
-    <pre><code>app/Views/welcome_message.php</code></pre>
+<!--    <pre><code>app/Views/welcome_message.php</code></pre> -->
 
-    <p>The corresponding controller for this page can be found at:</p>
+    <p>Born 28th July 2005, in Hospital RIPAS</p>
 
-    <pre><code>app/Controllers/Home.php</code></pre>
+<!--    <pre><code>app/Controllers/Home.php</code></pre> -->
 
 </section>
 
