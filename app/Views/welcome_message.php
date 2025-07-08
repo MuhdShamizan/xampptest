@@ -227,7 +227,7 @@
 
         <h1>Welcome to my website using CodeIgniter 4! <?= CodeIgniter\CodeIgniter::CI_VERSION ?></h1>
 
-        <h2>The small framework with powerful features</h2>
+        <h2>Made by Muhd Shamizan</h2>
 
     </div>
 
